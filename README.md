@@ -1,2 +1,2 @@
 # KalibuntuLinux.github.io
-Simple webpage for the Kalibuntu OS project
+Webpage location (tmp) for the Kalibuntu OS project
